@@ -1,4 +1,4 @@
-## Detona Ralph
+## Detona Ralph :boom:
 
 ### Projeto DIO Programação de Jogos.
 Personagem foi alterado para melhor personalização.
